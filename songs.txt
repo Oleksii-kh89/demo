@@ -7,6 +7,9 @@ What can I do...
 Uuuuuuu
 
 Sumertime sumertime
+<<<<<<< HEAD
 Uuuuu uuuuuuu
 
 WoW
+=======
+>>>>>>> b57ea1dd398118554ef833b135867ce50dd419e0
