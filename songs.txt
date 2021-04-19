@@ -7,8 +7,4 @@ What can I do...
 Uuuuuuu
 
 Sumertime sumertime
-<<<<<<< HEAD
 
-UUUUuuuu
-=======
->>>>>>> 0ef4ae870dfa6cd624d55b9f47a2925a93342949
